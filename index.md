@@ -47,7 +47,8 @@
         newer members of the EU, like Bulgaria, hold dramatically less votes. However, is this due to seniority, or is there some other factor
         that could be more representative of why some countries hold more power than others? To better understand this relationship, we turn to the 
         graph below, which graphs GDP per Capita and Population, while the size of the bubble represents the amount of Parliamentary votes
-        that country holds. 
+        that country holds. In addition, the points are coded by color such that blue represents a country making usage of the Euro and green represents a non-Euro
+        currency.
     </p>
     <br>
 
